@@ -90,3 +90,77 @@ Join a Google Hangout at 18:00 GMT on Mondays - message us at https://plus.googl
 We have lots of other opportunities for peers to contribute.  See http://peeragogy.org for more.
 
 Don’t worry too much about protocols or trying to catch up! Just jump in! :) “A Peeragogy Interview” © 2015 by the Peeragogy Project. All rights dedicated to the Public Domain under the Creative Commons Zero license. You can view the license online at https://creativecommons.org/publicdomain/zero/1.0/.
+
+***
+
+# Emergent Roadmap
+
+### ▶ Peeragogy project
+
+Feel free to join us and suggest new patterns and projects, or adapt our
+patterns to help shape another **Peeragogy Project**.
+
+### ▶ Roadmap
+
+Adding “What’s Next” steps to our patterns gives us a “distributed
+roadmap.” And this works both ways: If we sense that something needs to
+change about the project, that is a clue that we might need to record a
+new pattern.
+
+### ▶ Use or make
+
+We’ve spun off the pattern catalog from the *Peeragogy Handbook* into
+this paper, sharing it with a new community and gaining new
+perspectives. Let’s look for other parts of the handbook we can spin
+off!
+
+### ▶ Carrying capacity
+
+This pattern catalog has been rewritten in a way that should make it
+easy for anyone to add new patterns. Making it easy and fruitful for
+others to get involved is one of the best ways to redistribute the load
+(compare the **Newcomer** pattern).
+
+### ▶ A specific project
+
+Each project connected with the Peeragogy project should be described
+with one or more patterns, each with specific, tangible “what’s next”
+steps. The **Pattern Audit Routine** can help make these
+“what’s next” steps concrete.
+
+### ▶ Wrapper
+
+We need better practices for automating the wrapping-up process. One of
+the latest ideas is to develop a simple visual “dashboard” for the
+project that would be a web page people could access and immediately get
+an idea of what work is ongoing in the project with links for going more
+in depth and/or contributing.
+
+### ▶ Heartbeat
+
+Identifying and fostering new **Heartbeats** and new
+working groups is a task that can help make the community more robust.
+This is the temporal dimension of spin off projects described in
+**Use or Make**.
+
+### ▶ Creating a guide
+
+Working with our shepherd at PLoP to improve this paper!
+
+### ▶ Newcomer
+
+A more detailed (but non-limiting) “How to Get Involved” walk-through in
+text or video form would be good to develop. We can start by listing
+some of the things we’re learning about.
+
+### ▶ Pattern Audit Routine
+
+Regularly go through the **Pattern Audit Routine** in our
+future meetings.
+
+### ▶ Scrapbook
+
+After significantly pruning back the pattern catalog, we want it to grow
+again: new patterns are needed. Reviewing the contents of the
+**Scrapbook** will be one place to look for inspiration,
+but there are others.
