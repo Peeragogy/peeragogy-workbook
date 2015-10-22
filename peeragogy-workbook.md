@@ -1,4 +1,9 @@
-﻿# A Peeragogy Interview
+# Welcome
+
+- If you don't know who we are [click here]
+- Metacognition exercise
+
+# A Peeragogy Interview
 
 *Why do you do peeragogy?  What brought you here?  Why do you keep coming back?*
 
