@@ -80,19 +80,6 @@ Maria: I don’t remember historically how I got here.  Maybe through Joe; it wa
 
 ***
 
-# How To Get Involved in the Peeragogy Project
-
-To join us, please say hi! Sign up for our Google Group at https://groups.google.com/forum/#!forum/peeragogy and then write to us at: peeragogy@googlegroups.com
-
-Or write to: Peeragogy Project c/o Pierce Press PO Box 206 Arlington, MA 02476.
-Join a Google Hangout at 18:00 GMT on Mondays - message us at https://plus.google.com/+PeeragogyOrgHandbook to get on the invite list.
-
-We have lots of other opportunities for peers to contribute.  See http://peeragogy.org for more.
-
-Don’t worry too much about protocols or trying to catch up! Just jump in! :) “A Peeragogy Interview” © 2015 by the Peeragogy Project. All rights dedicated to the Public Domain under the Creative Commons Zero license. You can view the license online at https://creativecommons.org/publicdomain/zero/1.0/.
-
-***
-
 # Emergent Roadmap
 
 ### ▶ Peeragogy
@@ -147,3 +134,17 @@ the things we’re currently learning about.
 After pruning back our pattern catalog, we want it to grow again: new
 patterns are needed. One strategy would be to “patternize” the rest of
 the *Peeragogy Handbook.*
+
+***
+
+# How To Get Involved in the Peeragogy Project
+
+To join us, please say hi! Sign up for our Google Group at https://groups.google.com/forum/#!forum/peeragogy and then write to us at: peeragogy@googlegroups.com
+
+Or write to: Peeragogy Project c/o Pierce Press PO Box 206 Arlington, MA 02476.
+Join a Google Hangout at 18:00 GMT on Mondays - message us at https://plus.google.com/+PeeragogyOrgHandbook to get on the invite list.
+
+We have lots of other opportunities for peers to contribute.  See http://peeragogy.org for more.
+
+Don’t worry too much about protocols or trying to catch up! Just jump in! :) “A Peeragogy Interview” © 2015 by the Peeragogy Project. All rights dedicated to the Public Domain under the Creative Commons Zero license. You can view the license online at https://creativecommons.org/publicdomain/zero/1.0/.
+
