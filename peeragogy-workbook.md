@@ -119,7 +119,7 @@ Making it easy and fruitful for others to get involved is one of the
 best ways to redistribute the load. This often requires skill
 development among those involved; compare the pattern.
 
-### ▶ ***A specific project***
+### ▶ A specific project$$$
 
 We need to build specific, tangible “what’s next” steps and connect them
 with concrete action. Use the Scrapbook to organize that process.
