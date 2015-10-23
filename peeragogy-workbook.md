@@ -1,6 +1,6 @@
 # Welcome
 
-- If you don't know who we are [click here]
+- If you don't know who we are *[click here](https://github.com/Peeragogy/peeragogy-handbook/wiki/Quickstart-guide)*.
 - Metacognition exercise
 
 # A Peeragogy Interview
@@ -8,7 +8,8 @@
 *Why do you "do" peeragogy?  What brought you here?  Why do you keep coming back?*
 
 *Paola*: I believe it’s a good way to learn. Maybe it’s the best way. I think I wasn’t aware of that before joining the group. I have always been a self­-learner, I have been working mostly alone. After I began working with the group, I understood that you grow working with a group. You achieve things that you aren’t able to achieve alone. I think there’s a growing awareness of the value of collaboration in every setting and environment. There are more and more learning communities everywhere in every place in the world that are also learning that are that doing things together and deciding things together is best way that you could be in this world! I think we are living in hard times so we need more and more the sense that we are not alone and that we cannot solve problems alone.
-Maria: I don’t remember historically how I got here.  Maybe through Joe; it was a person who brought me.  But I am here for several reasons.  First, for a very pragmatic reason.  I have a peer-based movement, Natural Math, and I want to learn how to do that thing.  I don’t see any Coursera courses for “beginning movement leaders”.  So that’s what it is, learning how to do my thing.  The second thing, I think this is the alignment of values, and I try to keep in touch with people like that.  And it feels nice to be in touch with people who share your path.  This sort of conversation isn’t going to happen that much where I am.  Coming together to talk about what’s important in life.
+
+*Maria*: I don’t remember historically how I got here.  Maybe through Joe; it was a person who brought me.  But I am here for several reasons.  First, for a very pragmatic reason.  I have a peer-based movement, Natural Math, and I want to learn how to do that thing.  I don’t see any Coursera courses for “beginning movement leaders”.  So that’s what it is, learning how to do my thing.  The second thing, I think this is the alignment of values, and I try to keep in touch with people like that.  And it feels nice to be in touch with people who share your path.  This sort of conversation isn’t going to happen that much where I am.  Coming together to talk about what’s important in life.
 
 *Charlotte*: That resonates with me.  I’ve had a quite similar experience.
 
