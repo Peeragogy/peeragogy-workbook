@@ -1,6 +1,6 @@
 # Core problems
 
-> Backwards links specify the “larger” context for each of our patterns. This helps to explain the core problem that each pattern in our pattern language addresses. This table records each instance of B- ←A where pattern A refers to pattern B.
+> Backwards links specify the “larger” context for each of our patterns. This helps to explain the core problem that each pattern in our pattern language addresses. This table records each instance of B ←A where pattern A refers to pattern B.
 
 ## *Peeragogy*: How can we solve problems together?
 
@@ -60,7 +60,7 @@ rhythms.
 
 # Core solutions
 
-> Forward links specify the “smaller” context for each of our patterns. This helps to explain the core solution that each pattern in our pattern language offers. This table records each instance of A→B where pattern A refers to pattern B.
+> Forward links specify the “smaller” context for each of our patterns. This helps to explain the core solution that each pattern in our pattern language offers. This table records each instance of A→ B where pattern A refers to pattern B.
 
 ## Peeragogy: Get really concrete about what the problems are.
 
