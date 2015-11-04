@@ -26,7 +26,7 @@ see?
 # Government
 
 An interesting general motivation is to keep the costs down.  Here's a
-pie chart that shows how spending works currently:
+pie chart that shows how spending works currently (in the USA):
 
 ![Overall allocations in the US, from the National Priorities Project](https://media.nationalpriorities.org/uploads/total_spending_pie%2C__2015_enacted.png)
 
