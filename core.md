@@ -1,3 +1,35 @@
+# Nuts and bolts
+
+> This is a revision of the text below that aims to be super simple.
+
+How can we move forward together?
+Get really concrete about what the problems are.
+
+How can we keep track of what everyone is doing?
+Build a plan that we keep updating as we go along.
+
+How can we balance new ideas with the need to get stuff done?
+Use what’s there and share what we make.
+
+How can we avoid becoming overwhelmed?
+Clearly express when we’re frustrated.
+
+How can we avoid becoming perplexed?
+Focus on concrete, doable tasks.
+
+How can people stay in touch with the project?
+Maintain a coherent public surface.
+
+How can we make the project “real” for participants?
+Keep up a regular, sustaining rhythm.
+
+How can we make the project accessible to new people?
+Let’s learn from newcomers.
+
+How can we maintain focus as time goes by?
+Move things that are not of immediate use out of focus.
+
+
 # Core problems
 
 > Backwards links specify the “larger” context for each of our patterns. This helps to explain the core problem that each pattern in our pattern language addresses. This table records each instance of B ←A where pattern A refers to pattern B.
