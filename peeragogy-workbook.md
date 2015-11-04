@@ -89,6 +89,8 @@
 
 # Emergent Roadmap
 
+> These need validation!
+
 ### ▶ Peeragogy
 
 We intend to revise and extend the patterns and methods of peeragogy to
