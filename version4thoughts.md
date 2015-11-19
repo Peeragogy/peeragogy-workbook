@@ -25,6 +25,8 @@ see?
 
 # Government
 
+## Budget
+
 An interesting general motivation is to keep the costs down.  Here's a
 pie chart that shows how spending works currently (in the USA):
 
@@ -33,6 +35,12 @@ pie chart that shows how spending works currently (in the USA):
 From this chart, it stands to reason that cutting costs _in education_
 is basically a drop in the bucket.  Our contributions to the FLOK
 project were more broad reaching.  Can we get back to that?
+
+## Voting
+
+The keystone of Lawrence Lessig's ill-fated presidential bid was (or is) something called the [Citizen Equality Act](http://citizenequality.us/).  Maybe this is something we can contribute to even without a "reform president"?
+
+> Help #FixDemocracyFirst by co-sponsoring the CEA and joining the effort to create the first crowdsourced legislation in our nation's history.
 
 # Volunteer Groups
 
