@@ -2,9 +2,25 @@
 
 *Education*
 
-> Support peers learning producing across the world by publishing the Peeragogy Handbook!
+> Support peer learning across the world by **buying the handbook**!
 
-_I wonder if we should put "we're launching version 3.0 of the peeragogy handbook here on IndieGoGO so we can give buyers a low price."_
+## User Story format
+
+```
+AS A ____
+YOU NEED ____
+BECAUSE ____
+```
+
+```
+AS A Teacher
+YOU NEED To buy the peeragogy handbook
+BECAUSE It will show you how to organize your classes more efficiently
+```
+
+## What is our goal with the funding?
+
+_"We're launching version 3.0 of the peeragogy handbook here on IndieGoGO so we can give buyers a low price."_
 
 ## Short Summary
 
