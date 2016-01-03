@@ -18,6 +18,10 @@ YOU NEED To buy the peeragogy handbook
 BECAUSE It will show you how to organize your classes more efficiently
 ```
 
+AS A volunteer-run nonprofit
+YOU NEED Peeragogy
+BECAUSE volunteers need a reason and motivation for participating in your organization.
+
 ## What is our goal with the funding?
 
 _"We're launching version 3.0 of the peeragogy handbook here on IndieGoGO so we can give buyers a low price."_
