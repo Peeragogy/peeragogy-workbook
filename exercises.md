@@ -1,2 +1,5 @@
 Let's add some exercises here.<br>
-Weekly: Pick a day and time to sit down and notice how you used peeragogical methods in different settings, different roles. Think about where and how you fit into the outcome of different situations. (from Laura Ritchie)
+Weekly: Pick a day and time to sit down and notice how you used peeragogical methods in different settings, different roles. Think about where and how you fit into the outcome of different situations. (from Laura Ritchie)<br>
+That sounds great, for me, I'm now learning that if I want to do something, it helps if I decide I'm going to make it into a habit. I'm going to try to set aside a time every Sunday to think about what sort of peeragogical something I did during the week and take a note of it. . . well, of course, I've been thinking of doing that for a few weeks now, so, well, I'm determined this week!<br>
+That sounds great, for me, I'm now learning that if I want to do something, it helps if I decide I'm going to make it into a habit. I'm going to try to set aside a time every Sunday to think about what sort of peeragogical something I did during the week and take a note of it. . . well, of course, I've been thinking of doing that for a few weeks now, so, well, I'm determined this week!
+
